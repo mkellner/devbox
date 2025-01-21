@@ -2,6 +2,11 @@
 
 Use the Discussions link above to ask questions.
 
+> Warning:
+> Connecting things incorrectly can cause things to break.
+> 
+> Ask if you are unsure.
+
 # Getting started
 
 You need a host computer - macOS or Windows or Linux.
